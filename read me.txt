@@ -1,0 +1,2 @@
+GE.frm-an interface designed by Visual Basic
+folder qt framework-an Excel file with Qt Framework
